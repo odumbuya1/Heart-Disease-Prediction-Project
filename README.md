@@ -1,4 +1,7 @@
 # heart_disease_predictor
+
+NOTE: File Created By: Terryann Barnett; Uploaded By: Michael Roberts
+-----------------
 A supervised machine learning project which uses Python (Pandas, NumPy, Scikit-learn, Flask, Joblib) HTML, CSS, and JavaScript technologies to build a binary classifier, which performs with at least 90% accuracy, to make predictions about the risk of heart disease.
 <br>
 <br>
